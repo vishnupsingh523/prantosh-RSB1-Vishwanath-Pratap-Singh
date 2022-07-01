@@ -13,4 +13,4 @@ React.js
 ```
 <h2> Sample Result of the React App</h2>
 <br>
-<img src='./public/images/readmeImage.png' width='500px'/>
+<img src='./public/images/readmeImage.png' width='750px'/>
